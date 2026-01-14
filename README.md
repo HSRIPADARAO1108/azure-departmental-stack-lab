@@ -2,7 +2,7 @@
 
 This repository documents the deployment of a professional 3-tier application stack on Microsoft Azure. This project demonstrates proficiency in managing **Resource Groups**, **Platform as a Service (PaaS)**, and **Infrastructure as a Service (IaaS)** within a unified departmental environment.
 
----
+--- 
 
 ## 🏗️ Phase 1: Infrastructure & Admin Setup
 The project began by establishing a centralized management boundary to host departmental services, starting with a Linux-based administrative hub.
