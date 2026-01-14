@@ -1,0 +1,1 @@
+# azure-departmental-stack-lab
